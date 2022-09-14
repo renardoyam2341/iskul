@@ -4,3 +4,4 @@ pause
 git add .
 git commit -m "auto"
 git add
+pause
